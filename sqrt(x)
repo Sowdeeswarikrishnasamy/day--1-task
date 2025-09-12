@@ -1,0 +1,11 @@
+USING METHOD FUNCTION IN LEETCODE PROBLEM:
+class Solution {
+    public int mySqrt(int x) {
+        int res=(int)Math.sqrt(x);
+        return res;
+    }
+}
+
+INPUT:
+input:4
+output:2
